@@ -1,0 +1,3 @@
+Grupo de Risco:s|Treino:a|Horário:n
+Grupo de Risco:sim|Treino:inferiores|Horário:noite
+Grupo de Risco:Sim|Treino:Inferiores|Horário:Tarde
